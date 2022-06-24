@@ -1,2 +1,0 @@
-# latihan-react
-Belajar React
